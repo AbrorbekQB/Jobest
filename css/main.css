@@ -111,7 +111,7 @@ button {
 }
 
 .big__background {
-  background-image: url("../img/illustrasi_header.png"), url("../img/Vector Smart Object2.png"), url("/img/Shape.png");
+  background-image: url("../img/illustrasi_header.png"), url("../img/Vector Smart Object2.png"), url("../img/Shape.png");
   background-repeat: no-repeat;
   background-position: top right, top 28rem left, top 105rem right;
   background-size: 78% auto, 10% auto, 15% auto;
@@ -726,8 +726,8 @@ button {
 }
 
 .icon-programmer {
-  -webkit-mask-image: url("/img/programmer.png");
-          mask-image: url("/img/programmer.png");
+  -webkit-mask-image: url("../img/programmer.png");
+          mask-image: url("../img/programmer.png");
 }
 
 .icon-production {
